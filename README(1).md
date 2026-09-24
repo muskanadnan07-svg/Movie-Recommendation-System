@@ -24,9 +24,9 @@ These features are processed and combined into a single **tags** representation.
 
 ## 🖼️ Project Cover
 
-```markdown
+
 ![Movie Recommendation System](images/movie-recommendation-banner.png)
-```
+
 
 ---
 
